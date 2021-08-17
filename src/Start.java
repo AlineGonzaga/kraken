@@ -4,7 +4,5 @@ public class Start {
 
         DoHello doHello = new DoHello();
         doHello.setOla();
-
-        quebrei aqui e vou fazer o push hehehehehe;
     }
 }
