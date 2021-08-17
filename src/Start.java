@@ -4,5 +4,7 @@ public class Start {
 
         DoHello doHello = new DoHello();
         doHello.setOla();
+
+        hdkjshjd jdhsjdhsh jdhsjdhs hehe
     }
 }
